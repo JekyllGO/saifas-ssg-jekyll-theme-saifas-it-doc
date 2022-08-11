@@ -73,4 +73,4 @@ After connecting a theme, you need to understand how to use its main elements.
 
 The theme was created in such a way as to be used in various projects within the framework of the implementation and sale of IT products.
 
-All elements are responsive and have some keys. Therefore, when connecting one or another include or layout, look at the documentation on its use in docs/element_name.
+All elements are responsive and have some keys. Therefore, when connecting one or another include or layout, look at the documentation on its use in this repository.
