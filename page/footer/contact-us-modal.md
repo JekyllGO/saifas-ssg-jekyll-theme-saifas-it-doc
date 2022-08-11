@@ -1,1 +1,1 @@
-The button to open the modal window can be hidden using the `site.layout.footer.form_url` variable.
+You can change the link for the usebasin modal window using a variable `site.layout.footer.form_url` in _config.yml
