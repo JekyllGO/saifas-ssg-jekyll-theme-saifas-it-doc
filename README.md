@@ -1,5 +1,9 @@
 # Jekyll theme SAIFAS IT documentation
 
+#jekyll-theme-IT
+
+[Theme IT](https://github.com/JekyllGO/saifas-ssg-jekyll-theme-saifas-it)
+
 This documentation describes the main elements of the theme, its usage and structure.
 
 ## Structure
